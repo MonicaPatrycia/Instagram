@@ -1,2 +1,2 @@
-# Projeto dio Instagram
+# Projeto da dio Instagram.
 HTML, CSS página de início instagram..
